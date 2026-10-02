@@ -14,6 +14,8 @@
 
 建议使用自己长期掌握密码、验证方式和恢复信息的账号。不要把陌生或共享账号登录到 iCloud，也不要向他人提供自己的验证码。
 
+相关商品（商城）：[美区 Apple ID（已购 Shadowrocket 小火箭）](https://tgzhanghao168.top/buy/11)  该商品已购小火箭，独享可改密码
+
 ## 二、苹果小火箭 Shadowrocket 怎么下载？
 
 1. 在 iPhone 或 iPad 上打开 App Store，确认当前登录的是自己的商店账号。
